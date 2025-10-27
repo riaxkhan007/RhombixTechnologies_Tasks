@@ -1,0 +1,38 @@
+
+
+
+# Task 1 - Linux Basics
+This folder contains my Linux command practice report and screenshots.
+
+
+
+
+
+ 
+
+
+	
+
+
+Command	Purpose	Key Output
+df -h	Disk usage	Size, Used, Avail, Mounted
+free -m	Memory usage	Total, Used, Free RAM
+top	Running processes	CPU, Memory, Process stats
+uptime	System uptime	Duration, Load average
+uname -a	System info	Kernel & architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
